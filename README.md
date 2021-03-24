@@ -1,2 +1,2 @@
 # CSS
-FrontEnd projects about learning of CSS: Responsive, SASS, Flexbox, Grid y Bootstrap 4
+Personal projects on learning CSS: Responsive, SASS, Flexbox, Grid and Bootstrap 4, among others.
