@@ -7,3 +7,12 @@
     list-style: none;
     line-height: 50px;
 }
+
+.item{
+    height: 150px;
+}
+
+footer{
+    height: 50px;
+    line-height: 50px;
+}
